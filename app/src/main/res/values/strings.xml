@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_recipestep_list">RecipeSteps</string>
+    <string name="title_recipestep_detail">RecipeStep Detail</string>
+    <string name="data_not_found_message">DATA NOT FOUND</string>
+    <string name="recipe_name_not_found_message">RECIPE_NAME NOT AVAILALBLE</string>
+    <string name="widget_default_text">Ingredients</string>
+    <string name="test_text">CUP</string>
+    <string name="test_text_recipe">RECIPE TITLE</string>
+    <string name="next_button_text">next</string>
+    <string name="prev_btn_text">Previous</string>
+    <string name="preparation_steps_heading">Preparation Steps</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="preparation_steps">Preparation Steps</string>
+    <string name="item">Item</string>
+    <string name="add_to_widget">Add to widget</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_corner_radius">20dp</dimen>
+    <dimen name="layout_margin">10dp</dimen>
+
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="item_width">200dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="recycler_view_home_acivity_dimen">5dp</dimen>
+    <dimen name="widget_text_view_margin">2dp</dimen>
+    <dimen name="default_font_size">18sp</dimen>
+    <dimen name="image_view_ingredients_width_height_dimen">25dp</dimen>
+    <dimen name="default_constraint_margin">8dp</dimen>
+    <dimen name="ingredients_design_text_size">16sp</dimen>
+    <dimen name="recipe_details_text_size">30sp</dimen>
+    <dimen name="player_view_height">200dp</dimen>
+    <dimen name="landscape_width_height_dimen">0dp</dimen>
+    <dimen name="margin_left_right">16dp</dimen>
+    <dimen name="fiftuy">50dp</dimen>
+</resources>
